@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+}
+@font-face {
+  font-family: externalFont;
+  src: url('fonts/nico-moji.ttf');
+}
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 24px;
+  margin: auto;
+}
+
+#header-top {
+  text-align: center;
+  background-color: #AA2DCA;
+}
+
+h1 {
+  font-family: externalFont;
+  font-size: 90px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+#header-top img {
+  /* border:dashed ; */
+  width: 218px;
+}
+
+#header-bottom {
+  text-align: center;
+  background-color: white;
+  padding: 20px 0;
+}
+
+strong {
+  font-size: 26px;
+  color: #AA2DCA;
+}
+
+figure img{
+  margin: 0 20px 20px 0;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+#footer {
+  text-align: center;
+  font-size: 24px;
+  color: #AA2DCA;
+  margin-top: 80px;
+}
+
+a {
+  text-decoration: underline;
+  color: #AA2DCA;
+}
+
+#footer a + a{
+  margin-left: 20px; 
+}
