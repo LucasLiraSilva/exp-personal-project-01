@@ -1,11 +1,10 @@
-# Web Page simples - LetsPlayaGame
+<H1 ALIGN="CENTER">Web Page simples - LetsPlayaGame</H1>
 
-Projeto pessoal de uma web page simples sobre um aplicativo de games.
+<P ALIGN="CENTER">Projeto pessoal de uma web page simples sobre um aplicativo de games.</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -34,8 +33,6 @@ Este projeto é o início de minhas práticas com o objetivo de evoluir como DEV
 - Links externos;
 - Responsividade
 - Flexbox e box model
-
-Projeto Finalizado, pois serviu para o objetivo inicial.
 
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/OtzxJEJvdstFVkbLfQGO0C/pr-html-css-01?t=Omu4SYPj0ccRilPs-0" target="_blank">DESSE LINK</a>. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
